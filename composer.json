@@ -10,7 +10,7 @@
             "email": "munish@gegosoft.com"
         }
     ],
-    "type": "project",
+    "type": "library",
     "require": {
 		"php": ">=7.1",
         "php-http/client-implementation": "^1.0",

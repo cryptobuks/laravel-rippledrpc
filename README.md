@@ -104,4 +104,4 @@ make testf
 
 PRs & New Issues are welcome!
 
-XRP Tip Jar: `rwSZu5vAgPEdoDpYx9qZtqtHRDcFwCooqw`
+
